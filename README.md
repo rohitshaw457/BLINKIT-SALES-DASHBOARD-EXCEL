@@ -4,7 +4,7 @@
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Excel.
 
 ## 📄 Overview
-This project transforms ~8,500 order‐level records into a dynamic Excel dashboard that:
+This project transforms 8,500 order‐level records into a dynamic Excel dashboard that:
 - Highlights **Key Performance Indicators** (Total Sales, Avg. Sales per Order, Total Items Sold, Avg. Rating) at a glance.
 - Supports real‐time filtering via **Slicers** (Outlet Size, Outlet Location, Item Type).
 - Empowers quick “slice‐and‐dice” analysis through PivotTables, charts, and KPI cards.
@@ -26,6 +26,10 @@ This project transforms ~8,500 order‐level records into a dynamic Excel dashbo
 5. **Sales by Outlet Size (Clustered Column Chart)**  
 6. **Sales by Outlet Location Tier (Clustered Column Chart)**  
 7. **Outlet Type Summary (PivotTable)**
+
+## 📸 Dashboard Preview
+
+![Blinkit Sales Dashboard](images/dashboard.png)
 
 ## 💡 Results & Insights
 
