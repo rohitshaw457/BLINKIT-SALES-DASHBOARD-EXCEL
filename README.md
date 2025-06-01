@@ -9,6 +9,10 @@ This project transforms 8,500 order‐level records into a dynamic Excel dashboa
 - Supports real‐time filtering via **Slicers** (Outlet Size, Outlet Location, Item Type).
 - Empowers quick “slice‐and‐dice” analysis through PivotTables, charts, and KPI cards.
 
+  ## 📸 Dashboard Preview
+
+![Blinkit Sales Dashboard](images/dashboard.png)
+
 ## 🗂️ Key Performance Metrics (KPIs)
 
 | **KPI**                    | **Value** |
@@ -26,10 +30,6 @@ This project transforms 8,500 order‐level records into a dynamic Excel dashboa
 5. **Sales by Outlet Size (Clustered Column Chart)**  
 6. **Sales by Outlet Location Tier (Clustered Column Chart)**  
 7. **Outlet Type Summary (PivotTable)**
-
-## 📸 Dashboard Preview
-
-![Blinkit Sales Dashboard](images/dashboard.png)
 
 ## 💡 Results & Insights
 
