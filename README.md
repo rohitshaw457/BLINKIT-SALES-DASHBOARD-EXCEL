@@ -9,7 +9,7 @@ This project transforms ~8,500 order‐level records into a dynamic Excel dashbo
 - Supports real‐time filtering via **Slicers** (Outlet Size, Outlet Location, Item Type).
 - Empowers quick “slice‐and‐dice” analysis through PivotTables, charts, and KPI cards.
 
-## 🗂️ Key Metrics (KPIs)
+## 🗂️ Key Performance Metrics (KPIs)
 
 | **KPI**                    | **Value** |
 |----------------------------|-----------|
@@ -29,35 +29,31 @@ This project transforms ~8,500 order‐level records into a dynamic Excel dashbo
 
 ## 💡 Results & Insights
 
-### **Low Fat vs. Regular Sales**
-- Low Fat SKUs contribute ~55% of total revenue (≈₹660 K), while Regular items account for 45% (≈₹540 K).
-- Indicates a strong preference for health‐oriented products.
+### **Low-Fat vs. Regular Sales**
+- **Numbers:** Low-Fat = $776.3 K (65%), Regular = $425.4 K (35%).
+- **Insight:** Health-oriented SKUs dominate across all tiers, so expanding low-fat selections can further boost revenue.
 
 ### **Top Item Categories**
-- Dairy Products generate ~₹300 K (~25% of total revenue), Snacks Foods ~₹180 K (~15%), and Beverages ~₹120 K (~10%).
-- Confirms Dairy and Snacks as the primary revenue drivers.
+- **Numbers:** Fruits & Vegetables = $178.1 K; Snack Foods = $175.4 K; Household + Frozen + Dairy combined = $356 K.
+- **Insight:** Fruits & Veg and Snacks together drive ~30 % of category revenue, suggesting targeted promotions here yield high returns.
 
 ### **Customer Ratings**
-- Overall average rating is **4.0★**, with Dairy Products achieving the highest at **4.3 ★**.
-- Suggests top-selling categories also enjoy strong customer satisfaction, reinforcing their popularity.
+- **Numbers:** Overall 4.0 ★; top categories (Fruits & Veg, Snacks) rate ≥4.1 ★.
+- **Insight:** Strong alignment between high sales and high ratings indicates these categories appeal both in quality and demand.
 
-### **Top‐Performing Outlet**
-- **Outlet_OUT_007** leads with ~₹150 K in sales (60% from Low Fat), followed by **Outlet_OUT_003** at ~₹135 K (55% from Low Fat).
-- Highlights that high-revenue outlets also prioritize Low Fat offerings.
-
-### **Outlet Age Impact**
-- Outlets established **before 2017** generate ~30% more revenue, with the 2015 cohort topping at ~₹200 K, while the 2019 cohort underperforms at ~₹85 K.
-- Indicates that older outlets have more established customer bases and maintain consistent sales.
+### **Outlet Establishment Impact**
+- **Numbers:** 2018 cohort peaked at $204.5 K(53%), pre-2017 outlets average $130–$133 K, post-2018 settle near $130 K.
+- **Insight:** The 2018 spike suggests a successful campaign or expansion; replicating that strategy could help newer outlets catch up.
 
 ### **Outlet Size Distribution**
-- High-size outlets account for ~₹500 K (42% of total sales), Medium ~₹420 K (35%), and Small ~₹280 K (23%).
-- Demonstrates that larger outlet formats significantly boost sales volume.
+- **Numbers:** Small = $507.9 K, Medium = $444.8 K, High-Capacity = $249.0 K.
+- **Insight:** A network of smaller-format stores outpaces larger ones, indicating that convenience locations are key revenue drivers.
 
 ### **Location Tier Distribution**
-- Tier 1 cities contribute ~₹650 K (54% of sales), Tier 2 ~₹360 K (30%), and Tier 3 ~₹190 K (16%).
-- Underlines that urban markets drive the majority of revenue.
+- **Numbers:** Tier 3 = 39%, Tier 2 + Tier 1 combined = 61%.
+- **Insight:** Urban outlets outperform rural by 40% so prioritizing Tier 3 expansion can unlock significant incremental sales.
 
 ### **Outlet Type Comparison**
-- Supermarkets achieve ~₹620 K in sales (Avg. ₹145/order, Avg. rating 4.3 ★), while Grocery Stores generate ~₹580 K (Avg. ₹137/order, Avg. rating 4.1 ★).
-- Shows that although Supermarkets have marginally higher ratings, both outlet types perform comparably in overall revenue.
+- **Numbers:** Supermarket Type 1 $787.5 K vs. Type 2/3 = $131 K each; Grocery Stores \$151.9 K; all maintain \$140–\$142 avg./order.
+- **Insight:** While Type 1 leads in total revenue, consistent avg. order values across formats point to optimizing Type 2/3 operations as a path to lift overall sales.
 
