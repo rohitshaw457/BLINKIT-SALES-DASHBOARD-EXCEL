@@ -12,7 +12,9 @@ This project transforms 8,500 order‐level records into a dynamic Excel dashboa
 ## 📸 Dashboard Preview
 
 ![Blinkit Sales Dashboard](images/dashboard.png)
-📎 [Spreadsheets 1–4](Spreadsheet/)
+
+🧾 [View Spreadsheet](Spreadsheet/)
+
 ## 📊 Key Performance Metrics (KPIs)
 
 | **KPI**                    | **Value** |
