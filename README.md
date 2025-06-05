@@ -15,7 +15,7 @@ This project transforms 8,500 order‐level records into a dynamic Excel dashboa
 
 🧾 [View Spreadsheet](Spreadsheet/)
 
-## 📊 Key Performance Metrics (KPIs)
+## 📊 Key Performance Indicator (KPIs)
 
 | **KPI**                    | **Value** |
 |----------------------------|-----------|
